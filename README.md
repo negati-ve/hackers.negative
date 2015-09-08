@@ -9,7 +9,8 @@ Feel free to fork me :D
 #To do
 - Setup 
   - Create categories 
-  - Write the core philosophy
+    - Need better categories layout. current layout is bit messy.. Maybe we should go with a sponateous model .. lets just start, as and when needed categories should be added.   
+  - Write the core philosophy 
   - Setup mailing servers
   - invite people.
 
